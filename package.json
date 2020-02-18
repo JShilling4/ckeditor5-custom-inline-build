@@ -1,0 +1,11 @@
+{
+  "name": "ruoff-ckeditor5-inline-custom",
+  "version": "1.0.0",
+  "description": "Ruoff ckeditor5 custom inline build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
